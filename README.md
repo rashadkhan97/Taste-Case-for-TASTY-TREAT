@@ -1,5 +1,5 @@
 # Taste Case for TASTY TREAT
-In test case writing for TASTY TREAT - I worked on the Sign and Signout page and found some problems. 
+In test case writing for the TASTY TREAT Website- I worked on the Sign and Signout page and found some problems. 
 
 ## Contents
 + Test Plan 
@@ -8,6 +8,7 @@ In test case writing for TASTY TREAT - I worked on the Sign and Signout page and
 + Test Case writing
 + Bug Report
 + Test Metrics
+  
 ## Software 
 - [Xmind](https://xmind.app): For Mindmap Design
 - [Excel](): For writing test cases and other contents
