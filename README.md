@@ -36,10 +36,11 @@ To write document test case software used - **Microsoft Excel**.
 ![test case 4](https://github.com/rashadkhan97/Taste-Case-for-TASTY-TREAT/assets/76771109/99dc6bd8-b2a9-456b-8fae-a0034eabb626)
 ![test case 5](https://github.com/rashadkhan97/Taste-Case-for-TASTY-TREAT/assets/76771109/1c3ab120-7caf-4156-b280-926490186f23)
 
-
-
 ## Bug Report
+The amount of bugs discovered in test case writing is concentrated in this section. As we already know from the previous section (Test Case Writing), 5 test cases failed. **#SL7,8,10,12,14,32,56,85** denotes the errors identified and written on those rows in the five bug reporting boxes below.
+![bug reporting](https://github.com/rashadkhan97/Taste-Case-for-TASTY-TREAT/assets/76771109/1eb797af-445c-4302-9751-821f563e8cf7)
 
 ## Test Metrics
+![test matrics](https://github.com/rashadkhan97/Taste-Case-for-TASTY-TREAT/assets/76771109/d4081c95-5ff9-4123-98fa-b80edae2117b)
 
 
